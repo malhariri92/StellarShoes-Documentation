@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.StellarShoes"},{"l":"com.StellarShoes.Beans"},{"l":"com.StellarShoes.Tests"},{"l":"com.StellarShoes.utils"}]
